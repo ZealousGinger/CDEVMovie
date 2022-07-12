@@ -3,7 +3,7 @@ var connection = mysql.createConnection({
     host: 'dbrds1.cmbtmz1lqzpx.ap-southeast-1.rds.amazonaws.com',
     port: '3306',
     user: 'admin',
-    password: 'ctecctec',
+    password: 'password',
     database: 'movie_info'
 });
 
